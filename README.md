@@ -1,7 +1,10 @@
 ### Hi there 👋  
 - 🔭 I’m currently working on a NodeJS and express template for local and social media login.  
-- ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ragranados&theme=dracula&layout=compact%22%20alt=%22Top%20langs)
+  
+ ### Stats 👋 
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=ragranados&theme=dracula&layout=compact%22%20alt=%22Top%20langs)  
 
+![alt text](https://github-readme-stats.vercel.app/api?username=ragranados&show_icons=true&theme=dracula&hide_title=true&count_private=true)  
 <!--
 **ragranados/ragranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
